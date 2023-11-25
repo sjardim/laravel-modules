@@ -9,3 +9,4 @@ You don't need a Panel for each module, it's possible to create a module without
 
 For the Blog module, I kept a Panel, that you can access using `yourproject.test/blog/manage`. The main panel (see screenshot) is accessed as "/admin" and in its `AdminPanelProvider.php` file I called both modules.
 
+![CleanShot 2023-11-25 at 16 31 39](https://github.com/sjardim/laravel-modules/assets/125217/acd424cb-240c-42a7-b996-46c21b46e581)
